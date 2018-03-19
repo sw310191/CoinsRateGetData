@@ -10,6 +10,7 @@ namespace CoinsRateGetData
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
